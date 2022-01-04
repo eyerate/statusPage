@@ -26,3 +26,10 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+
+
+runner: [self-hosted]
+
+user-agent: eyerate-service
+
+robotsText: "User-agent: * \n Disallow: /"
