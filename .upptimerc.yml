@@ -21,9 +21,10 @@ status-website:
   name: Eyerate Status Page
   navbar:
     - title: Status
-      href: /
+      href: /statusPage
 
 
+runner: [self-hosted]
 
 user-agent: eyerate-service
 
