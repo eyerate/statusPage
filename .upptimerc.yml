@@ -3,14 +3,18 @@ owner: eyerate # Your GitHub organization or username, where this repository liv
 repo: statusPage # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Landing Page
+    url: https://eyeratebusiness.com/
   - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
+    url: Eyerate Reviews
+  - name: https://eyeratereviews.com/
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Employee App
+    url: https://eyeratepeople.com/
+  - name: API
+    url: https://api.eyeratebusiness.com/v1/api-docs/
+  - name: Internal Support App
+    url: https://my.eyerate.tech
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,14 +22,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statusPage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Page
-  introTitle: "Eyerate System Status"
-  introMessage: intro message
+  name: Eyerate Status Page
+  # introTitle: "Eyerate System Status"
+  # introMessage: intro message
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
