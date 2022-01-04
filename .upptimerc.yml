@@ -16,7 +16,7 @@ sites:
 
 status-website:
   # cname: eyerate.github.io/statusPage
-  baseUrl: /
+  # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Eyerate Status Page
   navbar:
