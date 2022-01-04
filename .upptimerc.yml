@@ -5,10 +5,8 @@ repo: statusPage # The name of this repository
 sites:
   - name: Landing Page
     url: https://eyeratebusiness.com/
-  - name: Wikipedia
-    url: Eyerate Reviews
-  - name: https://eyeratereviews.com/
-    url: https://news.ycombinator.com
+  - name: Eyerate Reviews
+    url: https://eyeratereviews.com/
   - name: Employee App
     url: https://eyeratepeople.com/
   - name: API
