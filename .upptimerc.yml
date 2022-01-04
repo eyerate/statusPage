@@ -28,4 +28,6 @@ status-website:
 
 runner: [self-hosted]
 
-user-agent: eyerate-service@github.com
+user-agent: eyerate-service
+
+robotsText: "User-agent: * \n Disallow: /"
