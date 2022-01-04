@@ -15,8 +15,8 @@ sites:
     url: https://my.eyerate.tech
 
 status-website:
-  cname: eyerate.github.io/statusPage
-  # baseUrl: /
+  # cname: eyerate.github.io/statusPage
+  baseUrl: /statusPage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Eyerate Status Page
   navbar:
