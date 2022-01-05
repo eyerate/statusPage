@@ -76,19 +76,19 @@
     "url": "https://my.eyerate.tech",
     "icon": "https://favicons.githubusercontent.com/my.eyerate.tech",
     "slug": "internal-support-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 268,
-    "timeDay": 268,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-01-05": 0
+      "2022-01-05": 38
     }
   }
 ]
