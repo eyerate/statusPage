@@ -10,7 +10,7 @@ sites:
   - name: Employee App
     url: https://eyeratepeople.com/
   - name: API
-    url: https://api.eyeratebusiness.com/v1/api-docs/
+    url: $URL_API
   - name: Internal Support App
     url: https://my.eyerate.tech
 
