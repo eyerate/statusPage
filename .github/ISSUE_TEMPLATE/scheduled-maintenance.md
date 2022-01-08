@@ -1,8 +1,8 @@
 ---
 name: scheduled maintenance
 about: scheduled maintenance
-title: ''
-labels: ''
+title: Scheduled Maintenance for Service Update
+labels: maintenance
 assignees: ''
 
 ---
