@@ -12,7 +12,7 @@ sites:
   - name: API
     url: $URL_API
   - name: Internal Support App
-    url: https://my.eyerate.tech
+    url: $URL_INTERNAL_SUPPORT_APP
 
 status-website:
   # cname: eyerate.github.io/statusPage
