@@ -17,6 +17,8 @@ sites:
     url: $URL_EMPLOYEEAPP_DEV
   - name: Employee App Development Backend
     url: $URL_EMPLOYEEAPP_DEV_BACKEND
+    expectedStatusCodes:
+      - 404
 
 status-website:
   # cname: eyerate.github.io/statusPage
