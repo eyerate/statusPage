@@ -22,7 +22,7 @@ status-website:
   js: >-
     window.onload = function(){
       var link = document.querySelectorAll("a[href='/statusPage']");
-      link[0].innerHTML = "<div id='seconds-counter' onClick='window.location.reload();'> </div>";
+      link[0].innerHTML = "<div id='seconds-counter' onClick='window.location.reload();'> </div><text onClick='window.location.reload();'>Click here to refresh</text>";
       var seconds = 0;
       var el = document.getElementById('seconds-counter');
       function incrementSeconds() { seconds += 1; if(seconds < 90) { el.innerText = "This page is " + seconds + " seconds old"; } else { el.innerText = "This page is " + Math.round(seconds / 60) + " minutes old"; }}
