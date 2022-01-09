@@ -13,6 +13,8 @@ sites:
     url: $URL_API
   - name: Internal Support App
     url: $URL_INTERNAL_SUPPORT_APP
+  - name: Endorser / Payments App
+    url: $URL_ENDORSER
   - name: Employee App Development
     url: $URL_EMPLOYEEAPP_DEV
   - name: Employee App Development Backend
