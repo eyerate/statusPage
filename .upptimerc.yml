@@ -4,15 +4,19 @@ repo: statusPage # The name of this repository
 
 sites:
   - name: Landing Page
-    url: https://eyeratebusiness.com/
+    url: $URL_LANDING_PAGE
   - name: Eyerate Reviews
-    url: https://eyeratereviews.com/
+    url: $URL_EYERATEREVIEWS
   - name: Employee App
-    url: https://eyeratepeople.com/
+    url: $URL_EMPLOYEEAPP
   - name: API
     url: $URL_API
   - name: Internal Support App
     url: $URL_INTERNAL_SUPPORT_APP
+  - name: Employee App Development
+    url: $URL_EMPLOYEEAPP_DEV
+  - name: Employee App Development Backend
+    url: $URL_EMPLOYEEAPP_DEV_BACKEND
 
 status-website:
   # cname: eyerate.github.io/statusPage
