@@ -1,7 +1,7 @@
 ---
 name: scheduled maintenance
 about: scheduled maintenance
-title: ":construction: Scheduled Maintenance :construction:"
+title: Scheduled Maintenance for siteName
 labels: maintenance
 assignees: ''
 
