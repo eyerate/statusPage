@@ -25,7 +25,7 @@ status-website:
       link[0].innerHTML = "<div id='seconds-counter' onClick='window.location.reload();'> </div>";
       var seconds = 0;
       var el = document.getElementById('seconds-counter');
-      function incrementSeconds() { seconds += 1; el.innerText = "This page is " + seconds + " seconds old.";	}
+      function incrementSeconds() { seconds += 1; if(seconds < 90) { el.innerText = "This page is " + seconds + " seconds old"; } else { el.innerText = "This page is " + Math.round(seconds / 60) + " minutes old"; }}
       var cancel = setInterval(incrementSeconds, 1000);
     }
   navbar:
