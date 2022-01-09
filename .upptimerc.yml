@@ -18,6 +18,8 @@ sites:
   - name: Employee App Development Backend
     url: $URL_EMPLOYEEAPP_DEV_BACKEND
     expectedStatusCodes:
+      - 200
+      - 201
       - 404
 
 status-website:
