@@ -19,9 +19,12 @@ status-website:
   baseUrl: /statusPage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Eyerate Status Page
-  scripts:
-    - src: https://raw.githubusercontent.com/eyerate/statusPage/master/assets/scripts.js
-      async: true
+  js: >-
+    var link = document.querySelectorAll("a[href='/statusPage']");
+    link[0].innerHTML = "<div id='seconds-counter' onClick='window.location.reload();'> </div>";
+    var seconds = 0;
+    var el = document.getElementById('seconds-counter');
+    function incrementSeconds() { seconds += 1; el.innerText = "This page is " + seconds + " seconds old."; }
   navbar:
     - title: Status
       href: /statusPage
