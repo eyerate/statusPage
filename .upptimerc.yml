@@ -19,6 +19,9 @@ status-website:
   baseUrl: /statusPage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Eyerate Status Page
+  scripts:
+    - src: /assets/scripts.js
+      async: true
   navbar:
     - title: Status
       href: /statusPage
