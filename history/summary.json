@@ -22,9 +22,9 @@
     "url": "$URL_EYERATEREVIEWS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "eyerate-reviews",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 184,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-15": 0
+    }
   },
   {
     "name": "Employee App",
