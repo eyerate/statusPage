@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.70%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 350,
     "timeDay": 327,
     "timeWeek": 343,
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.83%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 241,
     "timeDay": 256,
     "timeWeek": 229,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2022-01-20": 17
+      "2022-01-20": 39
     }
   },
   {
@@ -122,18 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 149,
     "timeDay": 216,
     "timeWeek": 100,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-01-20": 0
+      "2022-01-20": 22
     }
   },
   {
@@ -141,19 +141,19 @@
     "url": "$URL_EMPLOYEEAPP_DEV_BACKEND",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 52,
-    "timeWeek": 54,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 97,
+    "timeDay": 135,
+    "timeWeek": 74,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-01-20": 0
+      "2022-01-20": 22
     }
   }
 ]
