@@ -11,8 +11,8 @@
     "uptimeMonth": "98.57%",
     "uptimeYear": "98.57%",
     "time": 350,
-    "timeDay": 327,
-    "timeWeek": 343,
+    "timeDay": 340,
+    "timeWeek": 342,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 204,
-    "timeDay": 61,
-    "timeWeek": 323,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 202,
+    "timeDay": 89,
+    "timeWeek": 302,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2022-01-19": 37,
       "2022-01-15": 7
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "90.80%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.35%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 241,
-    "timeDay": 256,
+    "timeDay": 0,
     "timeWeek": 229,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2022-01-20": 133
+      "2022-01-20": 151
     }
   },
   {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 241,
-    "timeWeek": 258,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 245,
+    "timeWeek": 256,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   },
   {
@@ -90,8 +90,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 251,
-    "timeDay": 220,
-    "timeWeek": 244,
+    "timeDay": 221,
+    "timeWeek": 241,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 226,
-    "timeWeek": 222,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 226,
+    "timeDay": 216,
+    "timeWeek": 221,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -122,18 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.53%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 161,
-    "timeDay": 222,
+    "timeDay": 224,
     "timeWeek": 138,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2022-01-20": 56
+      "2022-01-20": 74
     }
   },
   {
@@ -141,19 +141,19 @@
     "url": "$URL_EMPLOYEEAPP_DEV_BACKEND",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development-backend",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 92,
-    "timeDay": 94,
-    "timeWeek": 70,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 99,
+    "timeDay": 139,
+    "timeWeek": 85,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {
-      "2022-01-20": 50
+      "2022-01-20": 68
     }
   }
 ]
