@@ -5,20 +5,28 @@ repo: statusPage # The name of this repository
 sites:
   - name: Landing Page
     url: $URL_LANDING_PAGE
+    __dangerous__insecure: true
   - name: Eyerate Reviews
     url: $URL_EYERATEREVIEWS
+    __dangerous__insecure: true
   - name: Employee App
     url: $URL_EMPLOYEEAPP
+    __dangerous__insecure: true
   - name: API
     url: $URL_API
+    __dangerous__insecure: true
   - name: Internal Support App
     url: $URL_INTERNAL_SUPPORT_APP
+    __dangerous__insecure: true
   - name: Endorser / Payments App
     url: $URL_ENDORSER
+    __dangerous__insecure: true
   - name: Employee App Development
     url: $URL_EMPLOYEEAPP_DEV
+    __dangerous__insecure: true
   - name: Employee App Development Backend
     url: $URL_EMPLOYEEAPP_DEV_BACKEND
+    __dangerous__insecure: true
     expectedStatusCodes:
       - 200
       - 201
