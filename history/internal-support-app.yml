@@ -1,7 +1,7 @@
 url: $URL_INTERNAL_SUPPORT_APP
-status: down
-code: 404
-responseTime: 235
-lastUpdated: 2022-01-27T19:35:01.516Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2022-01-27T19:41:00.583Z
 startTime: Tue Jan 04 2022 18:39:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
