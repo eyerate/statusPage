@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app",
     "status": "down",
-    "uptime": "87.67%",
-    "uptimeDay": "45.97%",
-    "uptimeWeek": "92.28%",
-    "uptimeMonth": "85.57%",
-    "uptimeYear": "87.67%",
+    "uptime": "87.66%",
+    "uptimeDay": "45.55%",
+    "uptimeWeek": "92.22%",
+    "uptimeMonth": "85.56%",
+    "uptimeYear": "87.66%",
     "time": 240,
     "timeDay": 259,
     "timeWeek": 251,
     "timeMonth": 230,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-02-09": 530,
+      "2022-02-09": 536,
       "2022-02-08": 248,
       "2022-01-24": 1031,
       "2022-01-23": 1440,
@@ -138,15 +138,15 @@
     "url": "$URL_EMPLOYEEAPP_DEV",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development",
-    "status": "up",
-    "uptime": "95.88%",
-    "uptimeDay": "73.36%",
+    "status": "down",
+    "uptime": "95.91%",
+    "uptimeDay": "73.35%",
     "uptimeWeek": "96.19%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "95.88%",
+    "uptimeMonth": "95.90%",
+    "uptimeYear": "95.91%",
     "time": 200,
-    "timeDay": 141,
-    "timeWeek": 149,
+    "timeDay": 139,
+    "timeWeek": 146,
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
@@ -154,7 +154,7 @@
       "2022-02-08": 108,
       "2022-01-24": 527,
       "2022-01-23": 644,
-      "2022-01-22": 250
+      "2022-01-22": 239
     }
   },
   {
@@ -162,15 +162,15 @@
     "url": "$URL_EMPLOYEEAPP_DEV_BACKEND",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development-backend",
-    "status": "up",
-    "uptime": "96.56%",
-    "uptimeDay": "81.79%",
+    "status": "down",
+    "uptime": "96.58%",
+    "uptimeDay": "81.77%",
     "uptimeWeek": "97.40%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "96.56%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.58%",
     "time": 125,
-    "timeDay": 93,
-    "timeWeek": 96,
+    "timeDay": 91,
+    "timeWeek": 95,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -179,7 +179,7 @@
       "2022-01-24": 370,
       "2022-01-23": 415,
       "2022-01-22": 365,
-      "2022-01-21": 95
+      "2022-01-21": 89
     }
   }
 ]
