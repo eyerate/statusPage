@@ -1,7 +1,7 @@
 url: $URL_EMPLOYEEAPP_DEV
-status: up
-code: 200
-responseTime: 53
-lastUpdated: 2022-04-12T21:19:10.565Z
+status: down
+code: 404
+responseTime: 232
+lastUpdated: 2022-04-12T21:29:38.873Z
 startTime: Sun Jan 09 2022 21:53:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
