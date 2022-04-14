@@ -77,7 +77,7 @@
     "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.45%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "97.96%",
     "time": 252,
     "timeDay": 230,
@@ -156,16 +156,16 @@
     "url": "$URL_EMPLOYEEAPP_DEV",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "56.54%",
+    "uptimeDay": "57.06%",
     "uptimeWeek": "90.98%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "98.64%",
     "time": 173,
-    "timeDay": 146,
-    "timeWeek": 143,
-    "timeMonth": 143,
+    "timeDay": 147,
+    "timeWeek": 144,
+    "timeMonth": 144,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2022-04-14": 127,
@@ -177,7 +177,7 @@
       "2022-02-16": 7,
       "2022-02-09": 567,
       "2022-02-08": 108,
-      "2022-01-24": 212
+      "2022-01-24": 200
     }
   },
   {
