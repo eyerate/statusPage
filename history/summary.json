@@ -156,14 +156,14 @@
     "url": "$URL_EMPLOYEEAPP_DEV",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "employee-app-development",
-    "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "23.51%",
-    "uptimeWeek": "55.34%",
-    "uptimeMonth": "89.72%",
-    "uptimeYear": "96.89%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "25.65%",
+    "uptimeWeek": "55.63%",
+    "uptimeMonth": "89.79%",
+    "uptimeYear": "96.91%",
     "time": 162,
-    "timeDay": 144,
+    "timeDay": 148,
     "timeWeek": 147,
     "timeMonth": 147,
     "timeYear": 162,
@@ -173,7 +173,7 @@
       "2022-04-18": 1002,
       "2022-04-17": 760,
       "2022-04-16": 820,
-      "2022-04-15": 285
+      "2022-04-15": 255
     }
   },
   {
