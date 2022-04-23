@@ -23,15 +23,35 @@ sites:
     __dangerous__insecure: true
   - name: API Development
     url: $URL_API_DEV
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 203
+      - 404
     __dangerous__insecure: true
   - name: Employee App Development
     url: $URL_EMPLOYEEAPP_DEV
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 203
+      - 404
     __dangerous__insecure: true
   - name: Eyerate Reviews Development
     url: $URL_EYERATEREVIEWS_DEV
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 203
+      - 404
     __dangerous__insecure: true
   - name: Landing Page Development
     url: $URL_LANDING_PAGE_DEV
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 203
+      - 404
     __dangerous__insecure: true
 
 
