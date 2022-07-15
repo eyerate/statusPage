@@ -1,7 +1,7 @@
 url: $URL_EYERATEREVIEWS
-status: up
-code: 200
-responseTime: 267
-lastUpdated: 2022-07-14T23:05:51.109Z
+status: down
+code: 502
+responseTime: 15950
+lastUpdated: 2022-07-15T15:17:42.677Z
 startTime: Tue Jan 04 2022 18:50:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
